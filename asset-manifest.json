@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.bf63f4d5.css",
-    "main.js": "/portfolio/static/js/main.238efe20.js",
+    "main.css": "/portfolio/static/css/main.5c721904.css",
+    "main.js": "/portfolio/static/js/main.eafe5ce4.js",
     "static/media/netflix.png": "/portfolio/static/media/netflix.ed86b37a5eecef07c888.png",
     "static/media/drum-kit.png": "/portfolio/static/media/drum-kit.7869a9e7e97e4e19a3a3.png",
     "static/media/math-game.png": "/portfolio/static/media/math-game.cac47175659ee6ec529f.png",
@@ -38,11 +38,11 @@
     "static/media/html.svg": "/portfolio/static/media/html.6e7b1b463015c056aeb9a624c8dc2876.svg",
     "static/media/hamburger.svg": "/portfolio/static/media/hamburger.04d437f882cf3391e0acdc4bb2543e84.svg",
     "static/media/cancel.svg": "/portfolio/static/media/cancel.4d0762fbbdb19e0a7e448e480506e3fc.svg",
-    "main.bf63f4d5.css.map": "/portfolio/static/css/main.bf63f4d5.css.map",
-    "main.238efe20.js.map": "/portfolio/static/js/main.238efe20.js.map"
+    "main.5c721904.css.map": "/portfolio/static/css/main.5c721904.css.map",
+    "main.eafe5ce4.js.map": "/portfolio/static/js/main.eafe5ce4.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf63f4d5.css",
-    "static/js/main.238efe20.js"
+    "static/css/main.5c721904.css",
+    "static/js/main.eafe5ce4.js"
   ]
 }
