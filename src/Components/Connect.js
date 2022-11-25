@@ -22,7 +22,7 @@ function Connect() {
                         &nbsp;
                         <Heading as="h3">on a project ?</Heading>
                     </Box>
-                    <Link href="https://wa.me/9979614636" target="_blank">Do DM</Link>
+                    <Link href="https://wa.me/9979614636" target="_blank">Do Dm</Link>
                 </Flex>
                 <Flex className="connect-card">
                     <Box>

@@ -2,12 +2,10 @@ import React from 'react'
 import { Flex, Heading, Text, Box } from '@chakra-ui/layout'
 import ProjectsObj from './ProjectsObj'
 import ProjectCard from './ProjectCard'
-import Header from './Header'
 
 function ProjectsPage() {
   return (
     <React.Fragment>
-    <Header />
       <Flex className="projects-page">
         <Box>
           <Heading as="h1">All</Heading>

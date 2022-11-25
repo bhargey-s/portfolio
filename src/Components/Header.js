@@ -25,11 +25,11 @@ function Header() {
             <Heading as='h2' fontFamily="Clash Display" bgGradient="linear(to-br,#fff 30%, rgba(255,255,255,0.38))" bgClip='text'>bhargey</Heading>
             <Flex as="nav" w="40%" justify="space-between" align="center">
                 <Scrollspy currentClassName='active-link' items={ ['home', 'aboutme', 'skills','projects','connect'] }>
-                    <Link href='/#home'>Home</Link>
-                    <Link href='/#aboutme'>About Me</Link>
-                    <Link href='/#skills'>Skills</Link>
-                    <Link href='/#projects'>Projects</Link>
-                    <Link href='/#connect'>Connect</Link>
+                    <Link href='/portfolio/#home'>Home</Link>
+                    <Link href='/portfolio/#aboutme'>About Me</Link>
+                    <Link href='/portfolio/#skills'>Skills</Link>
+                    <Link href='/portfolio/#projects'>Projects</Link>
+                    <Link href='/portfolio/#connect'>Connect</Link>
                 </Scrollspy>
             </Flex>
         </Flex>
